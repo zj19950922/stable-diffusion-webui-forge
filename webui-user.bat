@@ -3,7 +3,7 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--medvram --opt-split-attention --enable-insecure-extension-access --xformers --no-gradio-queue --no-half
+set COMMANDLINE_ARGS=--medvram --opt-split-attention --enable-insecure-extension-access --xformers --no-gradio-queue --no-half --api
 
 @REM Uncomment following code to reference an existing A1111 checkout.
 @REM set A1111_HOME=Your A1111 checkout dir
